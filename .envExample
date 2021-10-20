@@ -1,3 +1,4 @@
+PORT=9000
 DB_USERNAME=root
 DB_PASSWORD=YourPassword
 DB_HOST=localhost
