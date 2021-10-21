@@ -16,10 +16,10 @@ module.exports = {
     dialect: "mysql"
   },
   production: {
-    username: "root",
-    password: null,
+    username: "bee37017d22c59",
+    password: "1da76ab8",
     database: "database_production",
-    host: "127.0.0.1",
+    host: "us-cdbr-east-04.cleardb.com",
     dialect: "mysql"
   }
 }
